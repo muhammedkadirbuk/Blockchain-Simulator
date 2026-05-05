@@ -34,7 +34,7 @@ A full-stack, decentralized dApp simulation featuring asymmetric cryptography (R
 Asimetrik şifreleme (RSA) tabanlı cüzdan yönetimi ve otomatik tetiklenen akıllı kontrat (Smart Contract) mimarisine sahip merkeziyetsiz bir dApp simülasyonudur. Yazılım Mühendisliği projesi kapsamında geliştirilmiştir.
 
 ### 👥 Katkıda Bulunanlar & Roller
-- **Muhammed Kadir** — *Çekirdek Blok Zinciri Mantığı & Akıllı Kontrat Entegrasyonu*
+- **Muhammed Kadir BÜK** — *Çekirdek Blok Zinciri Mantığı & Akıllı Kontrat Entegrasyonu*
   - PoW (Proof-of-Work) algoritmasını, blok yapısını ve zincir doğrulama mantığını yazdı.
   - Backend tarafında dinamik bakiye güncellemelerini ve akıllı kontratların işlem tetikleme mantığını kurdu.
 - **Barış KARAKOÇ** — *Arayüz Mimarisi (React.js)*
