@@ -67,7 +67,8 @@ pip install pycryptodome Flask Flask-CORS
 # Start backend / Sunucuyu başlatın
 python app.py
 
-### 2. Frontend
+### 2. Frontend (React)
+```bash
 # Go to client directory / Client klasörüne geçiş yapın
 cd client
 
