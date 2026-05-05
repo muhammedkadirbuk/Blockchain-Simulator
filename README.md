@@ -6,7 +6,7 @@
 A full-stack, decentralized dApp simulation featuring asymmetric cryptography (RSA) based wallet management and automated smart contract execution. Developed as a Software Engineering project.
 
 ### 👥 Contributors & Roles
-- **Muhammed Kadir** — *Core Blockchain Logic & Smart Contract Integration*
+- **Muhammed Kadir BÜK** — *Core Blockchain Logic & Smart Contract Integration*
   - Developed the PoW (Proof-of-Work) algorithm, block structure, and state validation.
   - Implemented the dynamic balance synchronization and smart contract transaction execution on the backend.
 - **Barış KARAKOÇ** — *Frontend Architecture (React.js)*
